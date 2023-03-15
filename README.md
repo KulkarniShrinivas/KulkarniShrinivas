@@ -4,7 +4,7 @@
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
 
-<img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coading" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinivas989&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivas989" /> </p>
 
