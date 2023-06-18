@@ -1,12 +1,16 @@
-<h1 align="center">Hi there! Welcome to my GitHub Profile! ✨</h1>
-<h3 align="center"> My name is Shrinivas Kulkarni, an aspiring technophile. </h3>
 
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+<h1 align="center">Hi , I'm Shrinivas Kulkarni</h1>
 
+<p align="right">
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;"/>
+<br>
+  
+<img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<img align="right" alt="Coading" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinivas989&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivas989" /> </p>
+<br>
+<p align="center" width="150px"></p>
+</p>
+<br>
 
 <p align="left"> <a href="https://twitter.com/s_kulkarni99" target="blank"><img src="https://img.shields.io/twitter/follow/s_kulkarni99?logo=twitter&style=for-the-badge" alt="s_kulkarni99" /></a> </p>
 
@@ -16,11 +20,21 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Java, HTML, CSS**
+- 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me **shrinivaskulkarni789@gmail.com**
 
-- 📄 Know about my experiences/CV https://drive.google.com/file/d/1dGT43RMVf3cWmV_TAVK6vy7A-8tX8ood/view?usp=drivesdk
+- 📝 Do checkout my [Resume](https://drive.google.com/file/d/1dGT43RMVf3cWmV_TAVK6vy7A-8tX8ood/view?usp=drivesdk).   
+
+  <br>
+
+**My Absolute Favorites:**
+- 💻 I love exploring new tech stack and building cool stuffs.
+- ⚡ Hackathons, meetups & tech events.
+- 🎮 Playing video games.
+- 🎵 Listening to Music.
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
