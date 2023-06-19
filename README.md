@@ -26,7 +26,8 @@
 
 - 📝 Do checkout my [Resume](https://drive.google.com/file/d/1dGT43RMVf3cWmV_TAVK6vy7A-8tX8ood/view?usp=drivesdk).   
 
-  <br>
+<br>
+<hr>
 
 **My Absolute Favorites:**
 - 💻 I love exploring new tech stack and building cool stuffs.
@@ -34,11 +35,11 @@
 - 🎮 Playing video games.
 - 🎵 Listening to Music.
 
-<hr>
+
 
 <br>
 <hr>
-<Br>
+
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
@@ -46,4 +47,5 @@
 </p>
   
 <Br>
+<hr>
 
