@@ -4,6 +4,17 @@
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Tech+Enthusiast;"/>
 <br>
+
+<br>
+<p align="center"><b>Profile Views</b></p>
+
+ 
+<p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
+<br>
+
+<p align = "left">
+<br>
+
   
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
