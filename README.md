@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **React, Node JS, SpringBoot**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
@@ -35,7 +35,6 @@
 
 - 📫 How to reach me **shrinivaskulkarni789@gmail.com**
 
-- 📝 Do checkout my [Resume](https://drive.google.com/file/d/1dGT43RMVf3cWmV_TAVK6vy7A-8tX8ood/view?usp=drivesdk).   
 
 <br>
 <hr>
