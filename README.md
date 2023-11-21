@@ -20,4 +20,6 @@
 
 
 
-### [Connect with me 💬](https://www.linkedin.com/in/kulkarni-shrinivas/) 
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kulkarni-shrinivas/)
+[![Connect via Email](https://img.shields.io/badge/Email-Connect-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
